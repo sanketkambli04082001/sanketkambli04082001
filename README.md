@@ -16,6 +16,16 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=sanketkambli04082001&theme=dark&hide_border=false)
 
+## 📂 Featured Projects
+
+**[Vendor Performance & Inventory Analysis](https://github.com/sanketkambli04082001/Vendor-Performance-Data-Analysis)**  
+Built an end-to-end ETL pipeline on 10M+ sales records, optimized SQL queries from system crash to under 1 minute using CTEs, uncovered $2.7M in trapped inventory capital and built an executive Power BI dashboard with DAX-based KPIs.  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2307405e?style=flat&logo=sqlite&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e?style=flat&logo=sqlite&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white)
+
+**[FinQuery – Financial Report Processing System](https://github.com/sanketkambli04082001/FinQuery)**  
+Flask-based app that converts unstructured financial PDFs into structured summaries and revenue insights, with external API integration and dynamic Matplotlib visualizations.  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-%23000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e?style=flat&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat&logo=matplotlib&logoColor=black)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sanketkambli04082001&icon=0&color=0)](https://visitcount.itsvg.in)
 
